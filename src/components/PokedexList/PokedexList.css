@@ -1,0 +1,33 @@
+.pokedexList-wrapper{
+  
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.pokilist-heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+    margin: 20px;
+    font-weight: 600;
+}
+
+.pokeList{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+}
+
+.controls{
+    display: flex;
+    justify-content: center;
+}
+
+.controls > button{
+    padding: 15px 40px;
+    margin-left: 20px;
+    border-radius: 5px;
+}

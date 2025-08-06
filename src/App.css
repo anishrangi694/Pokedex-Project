@@ -1,0 +1,9 @@
+.outer-pokedex{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.pokedex-heading{
+    letter-spacing: 3px;
+    margin-top: 5px;
+}
